@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HAncycyLee
-- 👀 I’m interested in NLP, ML, Data Analysis.
+- 👀 I’m interested in NLP, ML, Agent, Data Analysis.
 - 🌱 I’m currently learning Pytorch, Data Mining and some other courses.
 - 💞️ I’m looking to collaborate on self-studying.
 - 📫 You can reach me at hancylee7@gmail.com, I'll reply as soons as possible!
