@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, ML, Agent, Data Analysis.
 - 🌱 I’m currently learning Pytorch, Data Mining and some other courses.
 - 💞️ I’m looking to collaborate on self-studying.
-- 📫 You can reach me at hancylee7@gmail.com, I'll reply as soons as possible!
+- 📫 You can reach me at hancylee7@gmail.com and ht008886@whu.edu.cn, I'll reply as soons as possible!
 
 <!---
 HAncycyLee/HAncycyLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
